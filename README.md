@@ -59,8 +59,9 @@ Here are few conclusions that can help solve our business problem:
 - Location of new wine bar in Zagreb pays bigger role in success of the business than in case of Belgrade
 
 
-
+# Presentation <a name="intro"></a>
 [Presentation of the project is on this link](https://github.com/vjslvvjc/The-Battle-of-Neighborhoods/blob/main/BoN%20week%202.pptx)
+# Notebook <a name="intro"></a>
 [Notebook of the project is on this link](https://github.com/vjslvvjc/The-Battle-of-Neighborhoods/blob/main/BoN%20week%202.ipynb)
 
 
